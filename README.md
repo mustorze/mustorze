@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently working at **PicPay**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.kt`, `.java`
-- 💅 Developed: [Coop Survivor](https://survivor.mustorze.com)
+- 💅 Developed: [Coop Survivor](https://survivor.mustorze.com) | [MustAuto](https://mustauto.com.br)
 - 🌱 Learning all about **Open Source** and **Laravel** heavy user.
 - 💬 Ping me about **php**, **js**, **kotlin**, **java**, **laravel**, **development**, **ops**, **backend**, **architecture**
 - 📫 Reach me: [x.com/mustorze](https://x.com/mustorze)
